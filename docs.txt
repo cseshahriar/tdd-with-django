@@ -1,0 +1,26 @@
+Functional test
+    Deal with the way a user will interact with your project, also knows as functionality.
+
+    Example
+        - if the user goes to your homepage, they will see the restaurant's logo
+        - if the use goes to the order page, they will be able to order a pizza
+        - if the user wants to change their order, they change
+
+Unit tests
+    Ensure that small pieces of your project are working as they should.
+
+    Example
+        - The ability to create a Pizza object from the Pizza class
+        - The function pizza_description() will appropriately tell  the size 
+            and toppings of a pizza
+        - A specific URL loads a specific view
+
+
+Differences
+    Functional Tests
+        - Things the users would know and care about
+        - Order a pizza
+
+    Unite Tests
+        - Things the user would never know about
+        - Ensure pizza_description() is working properly
