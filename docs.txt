@@ -24,3 +24,13 @@ Differences
     Unite Tests
         - Things the user would never know about
         - Ensure pizza_description() is working properly
+
+
+Tools
+    Functional tests
+        - selenium
+
+    Unite Tests
+        - Pytests
+        - pip install pytest-django
+        - https://pytest-django.readthedocs.io/en/latest/
